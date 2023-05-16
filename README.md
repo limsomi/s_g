@@ -1,5 +1,5 @@
-# graph_generate
-knowledge graph 생성
+# generate knowledge graph used to forecast stocks
+주식 예측에 사용되는 knowledge graph 생성
 
 
 ## 프로젝트 소개
